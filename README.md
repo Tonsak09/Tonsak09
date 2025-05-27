@@ -5,7 +5,7 @@ I'm a game developer with a passion for telling stories and making fun interacti
 ## Tech Stack
 - Languages: C++, C#, GLSL/HLSL, GDScript, Java
 - Engines: Godot, Unity, Custom~
-- APIs: DirectX11, DirectX12, Vulkan, Monogame
+- APIs: DirectX11, Vulkan, Monogame, OpenGL
 - Tools: Renderdoc, Visual Studio, PS5 Dev kit
 
 ## Let's Connect
