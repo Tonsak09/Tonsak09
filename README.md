@@ -1,4 +1,17 @@
-## Hi there 👋
+## Thanks for stopping by
+
+I'm a game developer with a passion for telling stories and making fun interactive programs! From working on low level rendering systems, making tools, to making my own games, I love working on the intersection between graphics and gameplay. 
+
+## Tech Stack
+- Languages: C++, C#, GLSL/HLSL, GDScript, Java
+- Engines: Godot, Unity, Custom~
+- APIs: DirectX11, DirectX12, Vulkan
+- Tools: Renderdoc, Visual Studio, PS5 Dev kit
+
+## Let's Connect
+- Email: narai.risser@gmail.com
+- Linkedin: https://www.linkedin.com/in/narai-risser
+
 
 <!--
 **Tonsak09/Tonsak09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
