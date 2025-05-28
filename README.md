@@ -6,7 +6,7 @@ I'm a game developer with a passion for telling stories and making fun interacti
 - Languages: C++, C#, GLSL/HLSL, GDScript, Java
 - Engines: Godot, Unity, Custom~
 - APIs: DirectX11, Vulkan, Monogame, OpenGL
-- Tools: Renderdoc, Visual Studio, PS5 Dev kit
+- Tools: Renderdoc, Visual Studio, PS5 Dev kit, Cmake
 
 ## Let's Connect
 - Email: narai.risser@gmail.com
